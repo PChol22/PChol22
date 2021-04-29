@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PChol22
 - 👀 I’m interested in web development and front-end design
+- 🎶 Tech music aficionado
 - 🌱 Currently studying computer engineering at CentraleSupélec Paris
 - 📫 How to reach me : https://www.linkedin.com/in/pchol22/
