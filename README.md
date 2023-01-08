@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @PChol22
-- 👀 I’m interested in web development and front-end design
-- 🎶 Tech music aficionado
-- 🌱 Currently studying computer engineering at CentraleSupélec Paris
-- 📫 How to reach me : https://www.linkedin.com/in/pchol22/
+- 👨‍💻 Software engineer at Theodo, Paris. Doing serverless in the tribe Kumo
+- I am into:
+  - 🌤 AWS Serverless
+  - 💻 Frontend dev / UI
+  - 🎨 Generative art / creative coding
+- 👨‍🎓 CentraleSupélec / Paris-Saclay University alumni
+- 📫 More about me:
+  - 🤵‍♂️ Linkedin: https://www.linkedin.com/in/pchol22/
+  - 🗞 Dev.to: https://dev.to/pchol22
+  - ⛩ Personnal website: http://pchol.fr
