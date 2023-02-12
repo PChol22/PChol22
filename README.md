@@ -8,4 +8,4 @@
 - 📫 More about me:
   - 🤵‍♂️ Linkedin: https://www.linkedin.com/in/pchol22/
   - 🗞 Dev.to: https://dev.to/pchol22
-  - ⛩ Personnal website: http://pchol.fr
+  - ⛩ Personnal website: https://www.sls-mentor.dev
