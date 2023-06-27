@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PChol22
-- 👨‍💻 Software engineer at Theodo, Paris. Doing serverless in the tribe Kumo
+- 👨‍💻 25 years old software engineer at Theodo, Paris. Doing serverless in the tribe Kumo
 - I am into:
   - 🌤 AWS Serverless
   - 💻 Frontend dev / UI
