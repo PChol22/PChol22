@@ -11,6 +11,6 @@
   - ⛩ Personnal website: https://www.sls-mentor.dev
 
 
-![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=sls-mentor&repo=sls-mentor&theme=dracula&hide_border=true&description_lines_count=3)
-![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=PChol22&repo=sls-natgateway&theme=dracula&hide_border=true&description_lines_count=3)
-![PChol22's Stats](https://github-readme-stats.vercel.app/api?username=PChol22&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+[![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=sls-mentor&repo=sls-mentor&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/sls-mentor/sls-mentor)
+[![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=PChol22&repo=sls-natgateway&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/Pchol22/sls-natgateway)
+[![PChol22's Stats](https://github-readme-stats.vercel.app/api?username=PChol22&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/Pchol22)
