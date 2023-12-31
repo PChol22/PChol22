@@ -4,12 +4,13 @@
   - 🌤 AWS Serverless
   - 💻 Frontend dev / UI
   - 🎨 Generative art / creative coding
+- 👷‍♂️ AWS Community Builder
+- 📐 AWS Certified Solutions Architect - Associate
 - 👨‍🎓 CentraleSupélec / Paris-Saclay University alumni
 - 📫 More about me:
+  - 🐦 Twitter: https://twitter.com/PierreChollet22
   - 🤵‍♂️ Linkedin: https://www.linkedin.com/in/pchol22/
   - 🗞 Dev.to: https://dev.to/pchol22
-  - ⛩ Personnal website: https://www.sls-mentor.dev
-
 
 [![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=sls-mentor&repo=sls-mentor&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/sls-mentor/sls-mentor)
 [![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=PChol22&repo=sls-natgateway&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/Pchol22/sls-natgateway)
