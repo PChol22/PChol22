@@ -13,7 +13,7 @@
   - 🗞 Dev.to: https://dev.to/pchol22
 
 [![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=sls-mentor&repo=sls-mentor&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/sls-mentor/sls-mentor)
-[![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=PChol22&repo=sls-natgateway&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/Pchol22/sls-natgateway)
+[![PChol22's Stats](https://github-readme-stats.vercel.app/api/pin?username=PChol22&repo=learn-serverless-dev-to&theme=dracula&hide_border=true&description_lines_count=3)](https://github.com/Pchol22/sls-natgateway)
 <a href="https://github.com/PChol22">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PChol22&theme=dracula&hide_border=true" />
 </a>
