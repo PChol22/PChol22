@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PChol22
-- 👨‍💻 26, Paris, building [Anyshift.io](anyshift.io) Previously tech lead at Theodo
+- 👨‍💻 26, Paris, building [Anyshift.io](anyshift.io). Previously tech lead at Theodo
 - I am into:
   - 🌤 AWS Serverless
   - 💻 Frontend dev / UI
